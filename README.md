@@ -7,7 +7,7 @@ MOF QNLP provides a new experience in constructing MOFs with target properties b
 3. Quantum computing-based classification models provide feedback to the MOF generation loop to output MOF with desired properties. 
 4. The MOF that meets the threshold probability of 85% goes through the structure generation process, while those that do not are redirected back to step 2.
 
-![MOF generation process](C:\Users\user\Desktop\research\quantum_computing\QML\image\MOF_QNLP_process.jpg)
+![MOF generation process](.\image\MOF_QNLP_process.jpg)
 
 
 
